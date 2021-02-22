@@ -7,5 +7,6 @@ As always, Thanks to God
 # HOW TO USE
 Simple paste the files above into your mods files or scripts files.
 I presume it will work on server files based on 1.4.148 and up.
+It works in servers and teams/ffa but does not work in single player
 Make your edits in fire.py.
 The distance between success and you is fear.
