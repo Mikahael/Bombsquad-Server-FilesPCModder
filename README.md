@@ -4,7 +4,7 @@ My first public script open to all. Kindly do use this files with respect.
 Do give me some credit kindly in your servers.
 As always, Thanks to God
 
-HOW TO USE
+# HOW TO USE
 Simple paste the files above into your mods files or scripts files.
 I presume it will work on server files based on 1.4.148 and up.
 Make your edits in fire.py.
