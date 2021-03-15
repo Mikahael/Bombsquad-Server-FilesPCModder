@@ -1,4 +1,4 @@
-# Bombsquad-Server-FilesPCModder
+# 𝐵𝑜𝓂𝒷𝓈𝓆𝓊𝒶𝒹-𝒮𝑒𝓇𝓋𝑒𝓇-𝐹𝒾𝓁𝑒𝓈𝒫𝒞𝑀𝑜𝒹𝒹𝑒𝓇
 Server files created by PC||Modder/PC231392 for the world to use. Contains a few new powerups for server owners.
 My first public script open to all. Kindly do use this files with respect.
 Do give me some credit kindly in your servers.
